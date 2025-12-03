@@ -19,7 +19,8 @@ O **SetPoint Voleibol** é um site de e-commerce voltado para produtos relaciona
 - 
 
 ## 🖼️Prints das Telas
-<img width="392" height="791" alt="image" src="https://github.com/user-attachments/assets/2ef13e68-52b0-4faf-941e-0e96b21da354" />
+<img width="382" height="806" alt="image" src="https://github.com/user-attachments/assets/b61fdab1-de91-4fa0-90db-0ad61426bc47" />
+
 <img width="396" height="796" alt="image" src="https://github.com/user-attachments/assets/d2403d18-a781-42da-b7db-80a445f154ab" />
 <img width="440" height="814" alt="image" src="https://github.com/user-attachments/assets/9ce8c2da-afc9-4703-a0b5-d0bbe9bc9a02" />
 <img width="387" height="798" alt="image" src="https://github.com/user-attachments/assets/f78cf8cd-11a0-445b-96d7-224bef55f713" />
