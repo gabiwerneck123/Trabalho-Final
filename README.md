@@ -22,10 +22,15 @@ O **SetPoint Voleibol** é um site de e-commerce voltado para produtos relaciona
 <img width="382" height="806" alt="image" src="https://github.com/user-attachments/assets/b61fdab1-de91-4fa0-90db-0ad61426bc47" />
 
 <img width="396" height="796" alt="image" src="https://github.com/user-attachments/assets/d2403d18-a781-42da-b7db-80a445f154ab" />
+
 <img width="440" height="814" alt="image" src="https://github.com/user-attachments/assets/9ce8c2da-afc9-4703-a0b5-d0bbe9bc9a02" />
-<img width="387" height="798" alt="image" src="https://github.com/user-attachments/assets/f78cf8cd-11a0-445b-96d7-224bef55f713" />
+
+<img width="388" height="788" alt="image" src="https://github.com/user-attachments/assets/cd7acd24-9169-43a7-8cf2-1eb12aa500a8" />
+
 <img width="421" height="802" alt="image" src="https://github.com/user-attachments/assets/fe7be9ed-248e-4e34-9a26-793c253ebec6" />
-<img width="416" height="804" alt="image" src="https://github.com/user-attachments/assets/d2b94001-0434-4f38-8c7b-d44cf6f8ff4a" />
+
+<img width="402" height="794" alt="image" src="https://github.com/user-attachments/assets/39308f08-f924-4807-9a9c-2c6d1d8ac0b6" />
+
 
 
   
