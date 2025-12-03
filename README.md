@@ -4,7 +4,7 @@
 ## 📝Descrição do Projeto
 O **SetPoint Voleibol** é um site de e-commerce voltado para produtos relacionados ao vôlei. Os usuários podem navegar e adquirir bolas, uniformes, acessórios e equipamentos para prática do esporte, tudo em um ambiente intuitivo e responsivo.
 
-## 🏐Funcionalidades (O que o usuário pode fazer)
+## 🏐Funcionalidades 
 - Visualizar todos os produtos disponíveis com imagens, nomes, descrições e preços.  
 - Pesquisar produtos por nome ou categoria.  
 - Filtrar produtos por tipo, preço ou popularidade.  
