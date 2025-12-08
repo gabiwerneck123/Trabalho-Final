@@ -38,8 +38,7 @@ O **SetPoint Voleibol** é um site de e-commerce voltado para produtos relaciona
 
 
 ## 🔗Link do Deploy da API (Swagger)
-https://trabalho-senai-f67g.onrender.com/aula/swagger-ui/index.html#/
-
+https://trabalho-senai-u6cz.onrender.com/aula/swagger-ui/index.html?authuser=2
 ## Link da Documentação 📚
 https://www.canva.com/design/DAG6RBBcQSo/9BqxO_L7T_B-BHOAhp9gvw/edit?utm_content=DAG6RBBcQSo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
