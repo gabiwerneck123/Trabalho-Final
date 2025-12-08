@@ -19,25 +19,29 @@ O **SetPoint Voleibol** é um site de e-commerce voltado para produtos relaciona
 - 
 
 ## 🖼️Prints das Telas
-<img width="382" height="806" alt="image" src="https://github.com/user-attachments/assets/b61fdab1-de91-4fa0-90db-0ad61426bc47" />
 
-<img width="396" height="796" alt="image" src="https://github.com/user-attachments/assets/d2403d18-a781-42da-b7db-80a445f154ab" />
+<img width="352" height="765" alt="Captura de tela 2025-12-08 091156" src="https://github.com/user-attachments/assets/01ded7f2-ded6-461a-a77b-1103eb9d67e0" />
 
-<img width="440" height="814" alt="image" src="https://github.com/user-attachments/assets/9ce8c2da-afc9-4703-a0b5-d0bbe9bc9a02" />
+<img width="362" height="771" alt="Captura de tela 2025-12-08 090533" src="https://github.com/user-attachments/assets/4aec5bd1-68e6-435d-b683-e7a387e5693b" />
 
-<img width="388" height="788" alt="image" src="https://github.com/user-attachments/assets/cd7acd24-9169-43a7-8cf2-1eb12aa500a8" />
+<img width="338" height="649" alt="Captura de tela 2025-12-08 091945" src="https://github.com/user-attachments/assets/54532807-3de0-4350-821c-66146d67d2b4" />
 
-<img width="421" height="802" alt="image" src="https://github.com/user-attachments/assets/fe7be9ed-248e-4e34-9a26-793c253ebec6" />
+<img width="353" height="761" alt="Captura de tela 2025-12-08 090824" src="https://github.com/user-attachments/assets/e3401bd2-557f-4a74-acd8-9f351e9d26c8" />
 
-<img width="402" height="794" alt="image" src="https://github.com/user-attachments/assets/39308f08-f924-4807-9a9c-2c6d1d8ac0b6" />
+<img width="354" height="766" alt="Captura de tela 2025-12-08 091008" src="https://github.com/user-attachments/assets/38f8f71d-cfa0-43c8-8ebe-8e3bef1bc349" />
 
 
-  
+<img width="350" height="769" alt="Captura de tela 2025-12-08 091054" src="https://github.com/user-attachments/assets/6eb306dc-a29e-4626-887b-aca72ff31416" />
+
+
+
+
 
 ## 🔗Link do Deploy da API (Swagger)
 https://trabalho-senai-f67g.onrender.com/aula/swagger-ui/index.html#/
 
 ## Link Documentação 📚
+https://www.canva.com/design/DAG6RBBcQSo/9BqxO_L7T_B-BHOAhp9gvw/edit?utm_content=DAG6RBBcQSo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 👩‍💻Desenvolvedora
 **Gabriela Dos Santos Werneck**
